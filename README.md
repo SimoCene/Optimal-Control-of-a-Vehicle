@@ -5,8 +5,8 @@ Regulator) algorithm. An additional constrain for the input control is added
 in order to simulate input saturation. Finally, the bicycle movement will be
 shown in an animation.
 
-[OPTCON2022} Group 19 - Execution of the code:
 
+[OPTCON2022} Group 19 - Alma Mater Studiorum UNIBO - Execution of the code:
 -Task_1: Open file 'Task_1-2.py'
 	In order to launch this task, you have to select 'Step' curve in "TO DO section".
 	To visualize the Armijo's plot set to True the flag 'visu-armijo'
