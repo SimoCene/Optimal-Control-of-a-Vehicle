@@ -7,6 +7,7 @@ shown in an animation.
 
 
 [OPTCON2022} Group 19 - Alma Mater Studiorum UNIBO - Execution of the code:
+
 -Task_1: Open file 'Task_1-2.py'
 	In order to launch this task, you have to select 'Step' curve in "TO DO section".
 	To visualize the Armijo's plot set to True the flag 'visu-armijo'
