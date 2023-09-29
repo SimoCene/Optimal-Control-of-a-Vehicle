@@ -1,7 +1,9 @@
 # Optimal-Control-of-a-Vehicle
-The objective of this project is to design the optimal control law of a fictitious bicycle. In order to absolve this tasks, the trajectories of the bicycle
+Final exam of the course "Optimal Control" at the university of Bologna. Professor Notarstefano G. and toutor Sforni L.
+
+The objective of this project is to design the optimal control law of a fictitious bicycle. In order to absolve this task, the trajectories of the bicycle
 must be optimized through the Newton’s method algorithm. Then an optimal feedback controller has to be defined using the LQR (Linear Quadratic
-Regulator) algorithm. An additional constrain for the input control is added
+Regulator) algorithm. An additional constraint for the input control is added
 in order to simulate input saturation. Finally, the bicycle movement will be
 shown in an animation.
 
